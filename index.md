@@ -1,7 +1,16 @@
 # 📘 Teoría de la Programación
 
-**Nombre**: Javier Guarnizo Vega
-**Carrera**: Ingeniería en Ciencias de la Computación
+## 🏛️ *Universidad Nacional de Loja*
+
+- **👤 Nombre:** Javier Guarnizo Vega  
+- **🎓 Carrera:** Ingeniería en Ciencias de la Computación    
+- **📘 Asignatura:** Teoría de la Programación  
+- **👩‍🏫 Docente:** Lissette López  
+- **📅 Ciclo:** Ciclo 1  
+- **🗓️ Período Académico:** 2025 - 2026  
+
+
+
 
 _Un recorrido por los fundamentos y aplicaciones de la programación como disciplina académica._  
 
