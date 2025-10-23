@@ -1,4 +1,6 @@
-# 📘 Teoría de la Programación  
+# 📘 Teoría de la Programación
+**Nombre**: Javier Guarnizo Vega
+
 _Un recorrido por los fundamentos y aplicaciones de la programación como disciplina académica._  
 
 ---
