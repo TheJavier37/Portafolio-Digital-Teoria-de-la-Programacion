@@ -10,7 +10,7 @@ _Espacio organizado para documentar avances, reflexiones y productos de cada uni
 
 ### 📂 Unidad 1  
 _Introducción a los conceptos básicos y primeras aproximaciones a la lógica de programación._  
-[Ir a la Unidad 1](unidad1)
+[Ir a la Unidad 1](Unidad1.md)
 
 ---
 
