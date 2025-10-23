@@ -26,6 +26,8 @@
 
 ### 📦 Tareas Entregadas  
 
+  [Ver carpeta anexa en Google Drive](https://drive.google.com/drive/folders/1EAlcNmdeaoR149M--ErCMMkSaYjXdxC9?usp=drive_link)
+
 - ✅ **Herramientas de algoritmos**  
   Desarrollo de pseudocódigos y diagramas de flujo para problemas básicos.  
 
