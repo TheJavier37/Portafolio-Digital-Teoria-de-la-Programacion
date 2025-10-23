@@ -1,6 +1,8 @@
 # 📘 Teoría de la Programación
+
 **Nombre**: Javier Guarnizo Vega
 **Carrera**: Ingeniería en Ciencias de la Computación
+
 _Un recorrido por los fundamentos y aplicaciones de la programación como disciplina académica._  
 
 ---
