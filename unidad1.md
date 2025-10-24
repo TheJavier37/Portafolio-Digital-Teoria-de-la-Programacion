@@ -43,10 +43,17 @@ Fin
   ---
 
 - 🔹 **Programación por bloques**  
-  Exploración de entornos visuales para el desarrollo de algoritmos.  
+  En es apartado exploramos como funciona una programacion bássica por medio de la progamación por bloques, que nos proponian acertijos simples, pero desafiantes que se resolvian a base de pensamiento lógico y probar diferentes comandos. Ejecutamos los mismos en páginas cómo:  
+  [BlockyGames](https://blockly.games/?lang=en)  
+  [PilasBloque](https://pilasbloques.program.ar/online/#)  
 
 - 🔹 **Ejemplos de algoritmos con estructuras lineales/secuenciales**  
-  Aplicación práctica de secuencias simples en pseudocódigo.  
+  Aplicación práctica de secuencias simples en pseudocódigo y c.
+
+  A continuación propongo dos programas simples, primero fueron codificados en pseudocódigo para posteriormente ser adaptados al lenguaje de programación c.
+
+  
+  
 
 - 🔹 **Principales dificultades en la aplicación de los contenidos**  
   Identificación de obstáculos comunes en la comprensión y ejecución.  
