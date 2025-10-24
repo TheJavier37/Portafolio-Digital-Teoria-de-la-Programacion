@@ -53,7 +53,7 @@ Fin
   **A continuación propongo dos programas simples, primero fueron codificados en pseudocódigo para posteriormente ser adaptados al lenguaje de programación c.**    
   El primer programa consiste en que puede calcular el porcentaje de mujeres y de hombres que hay, ingresando la cantidad respectiva de cada uno de estos.  
   [Programa 1 en psc](porcentajePersonas.psc)  
-  [Programa 1 en c](PorcentajePersonas.c)
+  [Programa 1 en c](porcentajePersonas.c)
   
   El segundo programa consiste en que puede calcular el presupuesto que se necesita para pintar, ingresando el precio de la pintura y los metros cuadrados que se deben de pintar.  
   [Programa 2 en psc](precioPintura.psc)  
