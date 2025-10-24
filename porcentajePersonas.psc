@@ -1,6 +1,6 @@
 Algoritmo ejercicioe
 	
-	//e) Determinar el porcentaje de mujeres y de hombres dado la cantidad para cada categoría.
+	//e) Determinar el porcentaje de mujeres y de hombres dado la cantidad para cada categorÃ­a.
 
 	
 	//Datos de entrada
