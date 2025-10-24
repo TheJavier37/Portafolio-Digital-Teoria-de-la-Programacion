@@ -50,10 +50,10 @@ _Fuentes académicas, bibliográficas y digitales que respaldan el trabajo reali
 ### 🤖 Uso de la IA Generativa  
 _Reflexión sobre cómo las herramientas de IA apoyan la investigación, la escritura y la creatividad._  
 
-He utilizado Microsoft Copilot como herramienta de apoyo para mejorar la redacción de mis textos, aprender a estructurar contenidos en formato Markdown (.md) y solicitar opiniones y sugerencias que me permitan perfeccionar mis escritos. Esta colaboración me ha ayudado a:
-• 	Corregir errores ortográficos, gramaticales y de estilo.
-• 	Reestructurar ideas para lograr mayor claridad, coherencia y formalidad.
-• 	Aprender a utilizar convenciones tipográficas y sintácticas propias del lenguaje técnico.
-• 	Organizar contenidos en listas, tablas, secciones y bloques de código usando Markdown.
-• 	Recibir retroalimentación crítica y didáctica para mejorar mis habilidades comunicativas.
-Gracias a este proceso, he podido desarrollar recursos más claros, funcionales y reutilizables para mis actividades académicas y profesionales.
+He utilizado Microsoft Copilot como herramienta de apoyo para mejorar la redacción de mis textos, aprender a estructurar contenidos en formato Markdown (.md) y solicitar opiniones y sugerencias que me permitan perfeccionar mis escritos. Esta colaboración me ha ayudado a:  
+• 	Corregir errores ortográficos, gramaticales y de estilo.  
+• 	Reestructurar ideas para lograr mayor claridad, coherencia y formalidad.  
+• 	Aprender a utilizar convenciones tipográficas y sintácticas propias del lenguaje técnico.  
+• 	Organizar contenidos en listas, tablas, secciones y bloques de código usando Markdown.  
+• 	Recibir retroalimentación crítica y didáctica para mejorar mis habilidades comunicativas.  
+Gracias a este proceso, he podido desarrollar recursos más claros, funcionales y reutilizables para mis actividades académicas y profesionales.  
