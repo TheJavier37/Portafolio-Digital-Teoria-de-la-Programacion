@@ -73,8 +73,8 @@ Complementan al pseudocódigo al ofrecer una visualización gráfica del algorit
 
 🧪 **Herramienta Utilizada: PSeInt**  
 Utilicé **PSeInt**, una herramienta que proporciona ambas representaciones: pseudocódigo y diagramas de flujo.  
-🧭 Su interfaz guía de forma sencilla el proceso de codificación y ejecución.
-
+🧭 Su interfaz guía de forma sencilla el proceso de codificación y ejecución.  
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e40daf50-24d2-42df-95ae-e8c3f54de058" />
 
   ---
 
@@ -90,8 +90,12 @@ En este apartado exploramos cómo funciona una programación básica mediante la
 ### 🌐 Plataformas utilizadas
 Ejecutamos los ejercicios en las siguientes páginas:
 
-- 🎮 [Blockly Games](https://blockly.games/?lang=en)  
+- 🎮 [Blockly Games](https://blockly.games/?lang=en)
+  <img width="1855" height="917" alt="image" src="https://github.com/user-attachments/assets/22e0a045-ec1e-4152-896e-1833bfee0809" />
+
 - 🧠 [Pilas Bloques](https://pilasbloques.program.ar/online/#)
+  <img width="1856" height="916" alt="image" src="https://github.com/user-attachments/assets/3dc07f2d-134b-4570-9ec8-039d72401c8b" />
+
 
   ---
 
