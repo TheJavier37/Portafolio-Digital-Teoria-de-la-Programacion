@@ -8,13 +8,24 @@
 ### 📘 Contenidos de la Unidad  
 
 - 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
-  ---
-  **Los algoritmos** son secuencias pasos lógicos ordenados que tienen un inicio y un final, a su vez dan solución a un problema determinado. Se clasifican en cualitativos y cuantitativos:
-
-  **- Algoritmos Cualitativos:** Se refiere a algoritmos que se describen a través de frases e instrucciones, por lo general son los que realizamos durante nuestra vida diaria inconscientemente.
-  **Ejemplo**
   
-  - Pasos para preparar leche con cocoa  
+  ---
+  
+### 🧠 ¿Qué es un algoritmo?
+Un **algoritmo** es una secuencia de pasos lógicos ordenados que tiene un inicio y un final, y que permite dar solución a un problema determinado.
+
+### 📂 Clasificación de algoritmos
+Los algoritmos se pueden clasificar en dos grandes grupos:
+
+---
+
+### 📝 Algoritmos Cualitativos
+Se describen mediante frases e instrucciones.  
+Son los que realizamos en nuestra vida diaria de forma inconsciente.
+
+**📌 Ejemplo:**
+  
+- Pasos para preparar leche con cocoa  
   Inicio  
   0\. Verter la leche en una olla  
   1\. Encender una hornilla  
@@ -25,8 +36,14 @@
   6\. Revolver con una cuchara  
   Fin  
   
-**- Algoritmos Cuantitativos:** Se refiere a algoritmos que se relacionan con procesos y formulas matemáticas, son más avanzados y por lo general los realizamos con razonamiento lógico.
-  **Ejemplo**  
+🔢 **Algoritmos Cuantitativos**  
+Se refiere a algoritmos que se relacionan con procesos y fórmulas matemáticas.  
+📈 Son más avanzados y por lo general se desarrollan mediante razonamiento lógico.
+
+🧠 **Ejemplo:** 
+
+  
+  -Calcular el volumen de una caja 
   Inicio  
   0\. Solicitar al usuario el valor de la longitud (L)  
   1\. Solicitar al usuario el valor de la anchura (A)  
@@ -43,10 +60,20 @@
 
   ---
 
-- 🔹 **Programación por bloques**   
-  En es apartado exploramos como funciona una programacion bássica por medio de la progamación por bloques, que nos proponian acertijos simples, pero desafiantes que se resolvian a base de pensamiento lógico y probar diferentes comandos. Ejecutamos los mismos en páginas cómo:  
-  [BlockyGames](https://blockly.games/?lang=en)  
-  [PilasBloque](https://pilasbloques.program.ar/online/#)
+## 🔹 **Programación por bloques**
+
+### 🧱 ¿Qué exploramos?
+En este apartado exploramos cómo funciona una programación básica mediante la **programación por bloques**, la cual nos proponía:
+
+- 🧩 Acertijos simples pero desafiantes.
+- 🧠 Resolución basada en pensamiento lógico.
+- 🧪 Pruebas con diferentes comandos para alcanzar soluciones.
+
+### 🌐 Plataformas utilizadas
+Ejecutamos los ejercicios en las siguientes páginas:
+
+- 🎮 [Blockly Games](https://blockly.games/?lang=en)  
+- 🧠 [Pilas Bloques](https://pilasbloques.program.ar/online/#)
 
   ---
 
@@ -54,29 +81,63 @@
   Aplicación práctica de secuencias simples en pseudocódigo y c.
 
   **A continuación propongo dos programas simples, primero fueron codificados en pseudocódigo para posteriormente ser adaptados al lenguaje de programación c.**    
-  El primer programa consiste en que puede calcular el porcentaje de mujeres y de hombres que hay, ingresando la cantidad respectiva de cada uno de estos.  
-  [Programa 1 en psc](porcentajePersonas.psc)  
-  [Programa 1 en c](porcentajePersonas.c)
-  
-  El segundo programa consiste en que puede calcular el presupuesto que se necesita para pintar, ingresando el precio de la pintura y los metros cuadrados que se deben de pintar.  
-  [Programa 2 en psc](precioPintura.psc)  
-  [Programa 2 en c](precioPintura.c)
+  ## 📘 Ejemplos de algoritmos con estructuras lineales/secuenciales
+
+### 🧪 Aplicación práctica de secuencias simples en pseudocódigo y C
+
+A continuación propongo dos programas simples.  
+Primero fueron codificados en pseudocódigo para posteriormente ser adaptados al lenguaje de programación C.
+
+---
+
+### 🧮 Programa 1: Cálculo de porcentajes por género
+
+📌 **Descripción**:  
+Este programa permite calcular el porcentaje de mujeres y de hombres ingresando la cantidad respectiva de cada uno.
+
+- 🧾 **Versión en pseudocódigo**: [Programa 1 en .psc](porcentajePersonas.psc)  
+- 💻 **Versión en C**: [Programa 1 en .c](porcentajePersonas.c)
+
+---
+
+### 🎨 Programa 2: Presupuesto para pintura
+
+📌 **Descripción**:  
+Este programa permite calcular el presupuesto necesario para pintar, ingresando el precio de la pintura y los metros cuadrados que se deben pintar.
+
+- 🧾 **Versión en pseudocódigo**: [Programa 2 en psc](precioPintura.psc)  
+- 💻 **Versión en C**: [Programa 2 en c](precioPintura.c)
 
   ---
   
-- 🔹 **Principales dificultades en la aplicación de los contenidos**
-  
- La principal dificultad que se me presentó al momento de codificar fue transformar operaciones matemáticas al lenguaje de programación.  
-Esto se debe a que es necesario conocer cómo se traducen los símbolos, respetar la jerarquía de operaciones y, en casos más complejos, entender estructuras que pueden volverse confusas.  
-Generalmente, si el planteamiento inicial no es claro, pueden surgir errores durante la ejecución del programa. En el caso del lenguaje C, es posible incorporar librerías como <math.h> que facilitan la implementación de funciones matemáticas y permiten programar de forma más cómoda y eficiente
-  
-  ---
-  
-- 🔹 **Reflexión crítica de los aprendizajes de la unidad**
+## 🔹 **Principales dificultades en la aplicación de los contenidos**
 
-  En esta Unidad 1, gracias al Aprendizaje en Contacto con el Docente —específicamente mediante las diapositivas que explican los temas tratados— pude conocer herramientas poderosas como PSeint, Visual Studio Code, así como diversos compiladores: JDK 21, MinGW y MSYS2.  
-Este conocimiento me permitió desenvolverme con mayor soltura en el Aprendizaje Autónomo. Con el apoyo del material proporcionado y algunos videos de YouTube, logré adentrarme sin dificultades en el mundo de la programación.
-Hasta el momento, me ha parecido interesante y divertido poder crear programas y luego observar cómo funcionan. Aún faltan dos unidades, y sigo con muchas ganas de seguir aprendiendo.  
+### ⚠️ Dificultad principal
+La principal dificultad que se me presentó al momento de codificar fue transformar operaciones matemáticas al lenguaje de programación.
+
+### 🔍 ¿Por qué ocurre?
+Esto se debe a que es necesario:
+- 🔤 Conocer cómo se traducen los símbolos matemáticos.
+- 🧮 Respetar la jerarquía de operaciones.
+- 🧩 Entender estructuras complejas que pueden volverse confusas.
+
+### 🧠 Observación clave
+Generalmente, si el planteamiento inicial no es claro, pueden surgir errores durante la ejecución del programa.
+
+### 💡 Sugerencia técnica
+En el caso del lenguaje C, es posible incorporar librerías como `<math.h>`:
+- 📚 Facilitan la implementación de funciones matemáticas.
+- 🚀 Permiten programar de forma más cómoda y eficiente.
+
+  ---
+
+## 🔹 **Reflexión crítica de los aprendizajes de la unidad**
+
+💡 En esta Unidad 1, gracias al Aprendizaje en Contacto con el Docente —específicamente mediante las diapositivas que explican los temas tratados— pude conocer herramientas poderosas como PSeint, Visual Studio Code, así como diversos compiladores: JDK 21, MinGW y MSYS2.
+
+🛠️ Este conocimiento me permitió desenvolverme con mayor soltura en el Aprendizaje Autónomo. Con el apoyo del material proporcionado y algunos videos de YouTube, logré adentrarme sin dificultades en el mundo de la programación.
+
+🎉 Hasta el momento, me ha parecido interesante y divertido poder crear programas y luego observar cómo funcionan.
 
 ---
 
