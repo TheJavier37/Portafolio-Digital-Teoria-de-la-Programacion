@@ -43,7 +43,7 @@ Se refiere a algoritmos que se relacionan con procesos y fórmulas matemáticas.
 🧠 **Ejemplo:** 
 
   
-  -Calcular el volumen de una caja 
+  - Calcular el volumen de una caja 
   Inicio  
   0\. Solicitar al usuario el valor de la longitud (L)  
   1\. Solicitar al usuario el valor de la anchura (A)  
@@ -52,11 +52,29 @@ Se refiere a algoritmos que se relacionan con procesos y fórmulas matemáticas.
   4\. Mostrar el resultado del volumen (V)  
   Fin  
 
-**Para representar algoritmos podemos utilizar dos herramientas muy importantes como lo son el Pseudocódigo y los Diagramas de flujo**
+🛠️ **Herramientas para Representar Algoritmos**
 
-**El Pseudocódigo** es la forma más básica y didáctica para poder representar un algoritmo simple, siendo este un lenguaje de bajo nivel que nos sirve para poder dar nuestros primeros pasos en el mundo de la programación, para luego poder llegar a otros lenguajes de alto nivel de forma menos abrupta.
+Para representar algoritmos podemos utilizar dos herramientas fundamentales:
 
-**Los diagramas de flujo** complementan el pseudocódigo, de tal forma que es otra manera de visualizar el código propuesto. En mi caso use la herramienta de PSeInt que nos proporciona ambas herramientas mencionadas y nos guia de una manera bastante sencilla de codificar y ejecutar. 
+---
+
+📄 **Pseudocódigo**  
+Es la forma más básica y didáctica para representar un algoritmo simple.  
+🔤 Se considera un lenguaje de bajo nivel que facilita nuestros primeros pasos en programación.  
+🚀 Su uso permite una transición más suave hacia lenguajes de alto nivel.
+
+---
+
+🔁 **Diagramas de Flujo**  
+Complementan al pseudocódigo al ofrecer una visualización gráfica del algoritmo.  
+🧩 Permiten entender la lógica del código de manera más intuitiva.
+
+---
+
+🧪 **Herramienta Utilizada: PSeInt**  
+Utilicé **PSeInt**, una herramienta que proporciona ambas representaciones: pseudocódigo y diagramas de flujo.  
+🧭 Su interfaz guía de forma sencilla el proceso de codificación y ejecución.
+
 
   ---
 
