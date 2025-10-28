@@ -59,7 +59,7 @@ Para representar algoritmos podemos utilizar dos herramientas fundamentales:
 
 ---
 
-📄 **Pseudocódigo**  
+### 📄 **Pseudocódigo**  
 Es la forma más básica y didáctica para representar un algoritmo simple.  
 🔤 Se considera un lenguaje de bajo nivel que facilita nuestros primeros pasos en programación.  
 🚀 Su uso permite una transición más suave hacia lenguajes de alto nivel.
@@ -67,7 +67,7 @@ Es la forma más básica y didáctica para representar un algoritmo simple.
 
 ---
 
-🔁 **Diagramas de Flujo**  
+### 🔁 **Diagramas de Flujo**  
 Complementan al pseudocódigo al ofrecer una visualización gráfica del algoritmo.  
 🧩 Permiten entender la lógica del código de manera más intuitiva.
 <img width="1881" height="1012" alt="image" src="https://github.com/user-attachments/assets/0cdfee3c-2118-43a0-b716-9dba2f2dca59" />
@@ -75,7 +75,7 @@ Complementan al pseudocódigo al ofrecer una visualización gráfica del algorit
 
 ---
 
-🧪 **Herramienta Utilizada: PSeInt**  
+### 🧪 **Herramienta Utilizada: PSeInt**  
 Utilicé **PSeInt**, una herramienta que proporciona ambas representaciones: pseudocódigo y diagramas de flujo.  
 🧭 Su interfaz guía de forma sencilla el proceso de codificación y ejecución.  
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e40daf50-24d2-42df-95ae-e8c3f54de058" />
