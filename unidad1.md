@@ -113,7 +113,7 @@ Ejecutamos los ejercicios en las siguientes páginas:
 
 A continuación propongo dos programas simples.  
 Primero fueron codificados en pseudocódigo para posteriormente ser adaptados al lenguaje de programación C.
-**Recomiendo abrir los hipervínculos en otra pestaña, para mayor facilidad de navegación**
+**Recomiendo abrir los hipervínculos en otra pestaña, para mayor facilidad de navegación**  
 
 ---
 
