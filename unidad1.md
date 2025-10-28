@@ -37,7 +37,7 @@ Son los que realizamos en nuestra vida diaria de forma inconsciente.
   6\. Revolver con una cuchara  
   Fin  
   
-🔢 **Algoritmos Cuantitativos**  
+### 🔢 **Algoritmos Cuantitativos**  
 Se refiere a algoritmos que se relacionan con procesos y fórmulas matemáticas.  
 📈 Son más avanzados y por lo general se desarrollan mediante razonamiento lógico.
 
