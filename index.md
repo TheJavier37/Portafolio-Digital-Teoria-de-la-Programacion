@@ -18,6 +18,7 @@ _Un recorrido por los fundamentos y aplicaciones de la programación como discip
 
 ## 💻 Portafolio Digital de Aprendizaje  
 _Espacio organizado para documentar avances, reflexiones y productos de cada unidad._  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/302dfd09-15e6-4f5d-8f0e-e857bbcf415a" />
 
 ---
 
