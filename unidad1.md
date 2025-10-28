@@ -8,7 +8,8 @@
 ### 📘 Contenidos de la Unidad  
 
 - 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
-  
+  <img width="1000" height="624" alt="image" src="https://github.com/user-attachments/assets/68923084-9a31-4b78-bd4d-cf907f5fe869" />
+
   ---
   
 ### 🧠 ¿Qué es un algoritmo?
@@ -62,12 +63,15 @@ Para representar algoritmos podemos utilizar dos herramientas fundamentales:
 Es la forma más básica y didáctica para representar un algoritmo simple.  
 🔤 Se considera un lenguaje de bajo nivel que facilita nuestros primeros pasos en programación.  
 🚀 Su uso permite una transición más suave hacia lenguajes de alto nivel.
+<img width="853" height="613" alt="image" src="https://github.com/user-attachments/assets/9f1a6e2a-4c4a-4c48-88fd-9ecdaee3ed4e" />
 
 ---
 
 🔁 **Diagramas de Flujo**  
 Complementan al pseudocódigo al ofrecer una visualización gráfica del algoritmo.  
 🧩 Permiten entender la lógica del código de manera más intuitiva.
+<img width="1881" height="1012" alt="image" src="https://github.com/user-attachments/assets/0cdfee3c-2118-43a0-b716-9dba2f2dca59" />
+
 
 ---
 
