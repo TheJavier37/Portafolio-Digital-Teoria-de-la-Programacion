@@ -142,16 +142,15 @@ Este programa permite calcular el presupuesto necesario para pintar, ingresando 
 ### ⚠️ Dificultad principal
 La principal dificultad que se me presentó al momento de codificar fue transformar operaciones matemáticas al lenguaje de programación.
 
-### 🔍 ¿Por qué ocurre?
-Esto se debe a que es necesario:
-- 🔤 Conocer cómo se traducen los símbolos matemáticos.
-- 🧮 Respetar la jerarquía de operaciones.
-- 🧩 Entender estructuras complejas que pueden volverse confusas.
+### 🔍 Debido a lo siguiente:
+- 🔤 Se debe conocer plenamete cómo se traducen los símbolos matemáticos.
+- 🧮 A veces es dificl representar jerarquía de operaciones.
+- 🧩 Hay que entender estructuras complejas que pueden volverse confusas.
 
 ### 🧠 Observación clave
 Generalmente, si el planteamiento inicial no es claro, pueden surgir errores durante la ejecución del programa.
 
-### 💡 Sugerencia técnica
+### 💡 Sugerencias
 En el caso del lenguaje C, es posible incorporar librerías como `<math.h>`:
 - 📚 Facilitan la implementación de funciones matemáticas.
 - 🚀 Permiten programar de forma más cómoda y eficiente.
