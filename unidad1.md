@@ -171,10 +171,10 @@ En el caso del lenguaje C, es posible incorporar librerías como `<math.h>`:
 
   [Ver carpeta anexa en Google Drive](https://drive.google.com/drive/folders/1EAlcNmdeaoR149M--ErCMMkSaYjXdxC9?usp=drive_link)
 
-- ✅ **Herramientas de algoritmos (pseudocódigo y diagramas de flujo).**  
+- ✅ [**Herramientas de algoritmos pseudocódigo y diagramas de flujo.**](https://drive.google.com/file/d/1wBt0-2Ah3Y76bVljBQoWlFLlCFKzAuH5/view?usp=drive_link)
 
-- ✅ **Instalación de lenguajes de programación(C, Python O Java)**   
+- ✅ [**Instalación de lenguajes de programación C, Python O Java**](https://drive.google.com/file/d/1uaWcAsCyvvOP086kpPDHnt4uqGEkFTaV/view?usp=drive_link)
 
-- ✅ **Primer acercamiento a la construcción de algoritmos secuenciales en pseudocódigo**  
+- ✅ [**Primer acercamiento a la construcción de algoritmos secuenciales en pseudocódigo**](https://drive.google.com/file/d/1uaWcAsCyvvOP086kpPDHnt4uqGEkFTaV/view?usp=drive_link)
 
-- ✅ **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**    
+- ✅ [**Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**](https://drive.google.com/file/d/19sNtAG2jGCmqTEGDnyjLNr2wE8nVQBnb/view?usp=sharing)
