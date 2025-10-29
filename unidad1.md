@@ -113,11 +113,23 @@ Ejecutamos los ejercicios en las siguientes páginas:
   En Blocky Games tuvimos la posibilidad de unir un puzzle interactivo sobre unos animales, luego ayudamos a un muñequito a salir de laberintos, a su destino guiandolo por medio de comandos, luego ayudamos a un pato a comer un gusano y luego llegar a su nido, con ayuda de comandos de inclinacion y avance.
   <p align="center">
   <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/22e0a045-ec1e-4152-896e-1833bfee0809" />
+  <p align="center">      
+  <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/e2c7ba56-104a-4d81-82c7-35d14af560f2" />
+  <p align="center">    
+  <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/2292445b-d547-4d36-842a-ff8acabbefe0" />
+
+
 
 - 🧠 [Pilas Bloques](https://pilasbloques.program.ar/online/#)
-  En Pilas bloque tuvimos la posibilidad de que por medio de unir comandos de avanzar hacia las cuatros direecion y obtener alimentos, ayudar a los animales a comer su cena, que a veces constaba de obtener varios ingredientes.
+  En Pilas bloque tuvimos la posibilidad de que por medio de unir comandos de avanzar hacia las cuatros dirección y obtener alimentos, ayudar a los animales a comer su cena, que a veces constaba de obtener varios ingredientes. Adicionlmente habia un modo para poder dibujar con comandos, hice una simple letra J, de mi nombre.
   <p align="center">
   <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/3dc07f2d-134b-4570-9ec8-039d72401c8b" />
+  <p align="center">
+  <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/2696c405-2333-4c95-9b72-5d4557b577f7" />
+  <p align="center">
+  <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/38d48226-f424-4d3e-989a-088b70ef4e21" />
+
+
 
   ---
 
