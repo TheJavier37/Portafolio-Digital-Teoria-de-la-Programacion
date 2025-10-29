@@ -106,11 +106,15 @@ Utilicé **PSeInt**, una herramienta que proporciona ambas representaciones: pse
 <img width="538" height="313" alt="image" src="https://github.com/user-attachments/assets/baed4ce0-6083-421b-9978-0d5f40942780" />
 
 ---
+
 ### 📋✏️**Pruebas de escritorio**
-| BASE | ALTURA |  | SALIDA |
-|-----------|-----------|-----------|
-| 4   | 8   | 16   |
-| 6   | 2   | 6    |
+Son pruebas que podemos realizar a mano, o en otro medio digital, para poder tener un respaldo que nos ayude a comprobar valores, en este caso la tabla de valor que esta abajo, corresponde a las ejecuciones de código anteriores.  
+
+
+| BASE | ALTURA | SALIDA |
+|------|--------|--------|
+| 4    | 8      | 16     |
+| 6    | 2      | 6      |
 
 
   ---
