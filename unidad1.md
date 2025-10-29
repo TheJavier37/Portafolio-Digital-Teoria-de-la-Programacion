@@ -76,7 +76,8 @@ Para representar algoritmos podemos utilizar dos herramientas fundamentales:
 Es la forma más básica y didáctica para representar un algoritmo simple.  
 🔤 Se considera un lenguaje de bajo nivel que facilita nuestros primeros pasos en programación.  
 🚀 Su uso permite una transición más suave hacia lenguajes de alto nivel.
-<img width="853" height="613" alt="image" src="https://github.com/user-attachments/assets/9f1a6e2a-4c4a-4c48-88fd-9ecdaee3ed4e" />
+<p align="center">
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9f1a6e2a-4c4a-4c48-88fd-9ecdaee3ed4e" />
 
 ---
 
