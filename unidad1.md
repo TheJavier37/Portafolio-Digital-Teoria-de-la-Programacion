@@ -6,9 +6,13 @@
 ---
 
 ### 📘 Contenidos de la Unidad  
-[Que es un algoritmo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-qu%C3%A9-es-un-algoritmo)
 
-- 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
+[Que es un algoritmo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-qu%C3%A9-es-un-algoritmo)
+[Algoritmos Cualitativos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-cualitativos)
+[Algoritmos Cuantitativos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-cuantitativos)
+
+
+- ## 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
   <img width="1000" height="624" alt="image" src="https://github.com/user-attachments/assets/68923084-9a31-4b78-bd4d-cf907f5fe869" />
 
   ---
