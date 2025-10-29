@@ -21,40 +21,32 @@ _Espacio organizado para documentar avances, reflexiones y productos de cada uni
 
 ---
 
-### 📂 Unidad 1  
+## 📂 Unidad 1  
 _Introducción a los conceptos básicos y primeras aproximaciones a la lógica de programación._  
 [Ir a la Unidad 1](unidad1.md)
 
 ---
 
-### 📂 Unidad 2  
-_Profundización en estructuras de control, funciones y resolución de problemas._  
+## 📂 Unidad 2  
+_Por ver._  
 
 ---
 
-### 📂 Unidad 3  
-_Aplicación práctica de los conocimientos en proyectos y casos de estudio._  
+## 📂 Unidad 3  
+_Por ver._  
 
 ---
 
-### 📝 Conclusiones  
+## 📝 Conclusiones  
 _Síntesis de aprendizajes, logros alcanzados y retos identificados durante el proceso._  
 
 ---
 
-### 📚 Referencias  
-_Fuentes académicas, bibliográficas y digitales que respaldan el trabajo realizado._  
-[1] F. Monroy, «¿Qué es PSeInt?,» 20 Octubre 2022. [En
-línea]. Available:
-https://fernandomonroytenorio.com/tema/que-es-pseint.
-[Último acceso: 9 Octubre 2025].  
-[2] «PSeInt: programando en pseudocódigo,» INTEF, 22
-Diciembre 2020. [En línea]. Available: https://intef.es/observatorio_tecno/pseint-programando-
-en-pseudocodigo. [Último acceso: 9 Octubre 2025].
+## 📚 Referencias  
 
 ---
 
-### 🤖 Uso de la IA Generativa  
+## 🤖 Uso de la IA Generativa  
 _Reflexión sobre cómo las herramientas de IA apoyan la investigación, la escritura y la creatividad._  
 
 He utilizado Microsoft Copilot como herramienta de apoyo para mejorar la redacción de mis textos, aprender a estructurar contenidos en formato Markdown (.md) y solicitar opiniones y sugerencias que me permitan perfeccionar mis escritos. Esta colaboración me ha ayudado a:  
