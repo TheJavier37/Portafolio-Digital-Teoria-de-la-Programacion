@@ -111,13 +111,13 @@ Ejecutamos los ejercicios en las siguientes páginas:
 
 - 🎮 [Blockly Games](https://blockly.games/?lang=en)  
   En Blocky Games tuvimos la posibilidad de unir un puzzle interactivo sobre unos animales, luego ayudamos a un muñequito a salir de laberintos, a su destino guiandolo por medio de comandos, luego ayudamos a un pato a comer un gusano y luego llegar a su nido, con ayuda de comandos de inclinacion y avance.
-  
-  <img width="1855" height="917" alt="image" src="https://github.com/user-attachments/assets/22e0a045-ec1e-4152-896e-1833bfee0809" />
+  <p align="center">
+  <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/22e0a045-ec1e-4152-896e-1833bfee0809" />
 
 - 🧠 [Pilas Bloques](https://pilasbloques.program.ar/online/#)
   En Pilas bloque tuvimos la posibilidad de que por medio de unir comandos de avanzar hacia las cuatros direecion y obtener alimentos, ayudar a los animales a comer su cena, que a veces constaba de obtener varios ingredientes.
-  
-  <img width="1856" height="916" alt="image" src="https://github.com/user-attachments/assets/3dc07f2d-134b-4570-9ec8-039d72401c8b" />
+  <p align="center">
+  <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/3dc07f2d-134b-4570-9ec8-039d72401c8b" />
 
   ---
 
