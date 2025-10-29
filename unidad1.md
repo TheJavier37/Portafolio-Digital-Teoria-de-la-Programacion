@@ -19,7 +19,7 @@
 [Programa 2: Presupuesto para pintura](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-programa-2-presupuesto-para-pintura)  
 [Principales dificultades en la aplicación de los contenidos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)  
 [Reflexión crítica de los aprendizajes de la unidad](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-reflexi%C3%B3n-cr%C3%ADtica-de-los-aprendizajes-de-la-unidad)  
-
+[Tareas entregadas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-tareas-entregadas)
 
 - ## 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
 
