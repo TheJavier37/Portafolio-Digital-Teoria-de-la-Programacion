@@ -40,8 +40,8 @@ Los algoritmos se pueden clasificar en dos grandes grupos:
 ---
 
 ### 📝 Algoritmos Cualitativos
-Se describen mediante frases e instrucciones.  
-Son los que realizamos en nuestra vida diaria de forma inconsciente.
+🏡 Se describen mediante frases e instrucciones.  
+Son los que realizamos en nuestra vida diaria de forma inconsciente y constan de pasos simples.  
 
 **📌 Ejemplo:**
 ``` 
@@ -84,6 +84,7 @@ Para representar algoritmos podemos utilizar dos herramientas fundamentales: El 
 Es una herramienta que permite representar instrucciones de código (pasos del algoritmo) sin usar un lenguaje de programación formal, es un punto intermedio entre el lenguaje coloquial y el lenguaje de programación. Utiliza las mismas estructuras que implementan los lenguajes de programación de alto nivel [1].  
 🔤 Se considera un lenguaje de bajo nivel que facilita nuestros primeros pasos en programación.  
 🚀 Su uso permite una transición más suave hacia lenguajes de alto nivel.
+- Fig 1: Ejemplo general de pseudocódigo en el cual se calcula el área de un triángulo   
 <p align="center">
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f201f2f4-aa0c-42e7-aeac-fe8354613a53" />
 
@@ -93,6 +94,7 @@ Es una herramienta que permite representar instrucciones de código (pasos del a
 ### 🔁 **Diagramas de Flujo**  
 Complementan al pseudocódigo al ofrecer una visualización gráfica del algoritmo.  
 🧩 Permiten entender la lógica del código de manera más intuitiva.
+
 <p align="center">
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/6be136ae-b09b-4eaf-91f3-3c4474686b3c" />
 
