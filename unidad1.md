@@ -155,8 +155,57 @@ Primero fueron codificados en pseudocódigo para posteriormente ser adaptados al
 📌 **Descripción**:  
 Este programa permite calcular el porcentaje de mujeres y de hombres ingresando la cantidad respectiva de cada uno.
 
-- 🧾 **Versión en pseudocódigo**: [Programa 1 en .psc](porcentajePersonas.psc)  
-- 💻 **Versión en C**: [Programa 1 en .c](porcentajePersonas.c)
+- 🧾 **Versión en pseudocódigo**:
+  ```
+      Algoritmo ejercicioe
+  
+	//Datos de entrada
+	Definir mujeres, hombres, porcentajeMujeres, porcentajeHombres Como Real
+	
+	Escribir "Ingrese cantidad de mujeres"
+	Leer mujeres;
+	Escribir "Ingrese cantidad de hombres"
+	Leer hombres;
+	
+	//Proceso 
+	total = mujeres + hombres;
+	porcentajeMujeres = mujeres * 100 / total;
+	porcentajeHombres = hombres * 100 / total;
+	
+	//Datos de salida
+	Escribir "El porcentaje de mujeres es : ", porcentajeMujeres,"%";
+	Escribir "El porcentaje de hombres es: ", porcentajeHombres,"%";
+	
+      FinAlgoritmo
+
+- 💻 **Versión en C**:
+  ```
+  #include <stdio.h>
+  
+  int main() {
+
+    float mujeres, hombres, porcentajeMujeres, porcentajeHombres, total;
+
+    // Entrada de datos
+    printf("Ingrese cantidad de mujeres: ");
+    scanf("%f", &mujeres);
+
+    printf("Ingrese cantidad de hombres: ");
+    scanf("%f", &hombres);
+
+    // Proceso
+    total = mujeres + hombres;
+    
+    porcentajeMujeres = (mujeres * 100) / total;
+    porcentajeHombres = (hombres * 100) / total;
+
+    // Salida de datos
+    printf("El porcentaje de mujeres es: %.2f%%\n", porcentajeMujeres);
+    printf("El porcentaje de hombres es: %.2f%%\n", porcentajeHombres);
+
+    return 0;
+  }
+
 
 ---
 
@@ -165,8 +214,48 @@ Este programa permite calcular el porcentaje de mujeres y de hombres ingresando 
 📌 **Descripción**:  
 Este programa permite calcular el presupuesto necesario para pintar, ingresando el precio de la pintura y los metros cuadrados que se deben pintar.
 
-- 🧾 **Versión en pseudocódigo**: [Programa 2 en psc](precioPintura.psc)  
-- 💻 **Versión en C**: [Programa 2 en c](precioPintura.c)
+- 🧾 **Versión en pseudocódigo**:
+  ```
+  Algoritmo precioPintura
+	
+	//Datos de entrada
+	Definir precioPintura, metrosCuadrados, precioFinal Como Real
+	
+	Escribir "Ingrese el precio de la pintura";
+	Leer precioPintura;
+	Escribir "Ingrese los metros cuadrados";
+	Leer metrosCuadrados;
+	
+	//Proceso 
+	precioFinal = precioPintura * metrosCuadrados;
+	
+	//Datos de salida
+	Escribir "El presupuesto a pagar es de: ", precioFinal;
+	
+FinAlgoritmo
+- 💻 **Versión en C**:
+  ```
+  #include <stdio.h>
+
+  int main() {
+        float precioPintura, metrosCuadrados, precioFinal;
+
+        // Datos de entrada
+        printf("Ingrese el precio de la pintura por m2: ");
+        scanf("%f", &precioPintura);
+
+        printf("Ingrese los metros cuadrados a pintar: ");
+        scanf("%f", &metrosCuadrados);
+
+        // Proceso
+        precioFinal = precioPintura * metrosCuadrados;
+
+        // Datos de salida
+        printf("El presupuesto a pagar es de: %.2f\n", precioFinal);
+
+        return 0;
+
+      }
 
   ---
   
