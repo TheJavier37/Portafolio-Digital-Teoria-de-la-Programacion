@@ -6,6 +6,13 @@
 ---
 
 ### 📘 Contenidos de la Unidad  
+[Algotimos y su Clasificación](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/edit/main/unidad1.md#-qu%C3%A9-es-un-algoritmo)  
+[Pseudocódigo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/edit/main/unidad1.md#-pseudoc%C3%B3digo)  
+[Diagramas de flujo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/edit/main/unidad1.md#-diagramas-de-flujo)  
+[PSeInt](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/edit/main/unidad1.md#-herramienta-utilizada-pseint)  
+[Programación por bloques](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/edit/main/unidad1.md#-programaci%C3%B3n-por-bloques)  
+[Plataformas Utilizadas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/edit/main/unidad1.md#-plataformas-utilizadas)  
+[Estructuras lineales/secunciales](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/edit/main/unidad1.md#-ejemplos-de-algoritmos-con-estructuras-linealessecuenciales)  
 
 - 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
   <img width="1000" height="624" alt="image" src="https://github.com/user-attachments/assets/68923084-9a31-4b78-bd4d-cf907f5fe869" />
@@ -103,11 +110,7 @@ Ejecutamos los ejercicios en las siguientes páginas:
 
   ---
 
-- 🔹 **Ejemplos de algoritmos con estructuras lineales/secuenciales**  
-  Aplicación práctica de secuencias simples en pseudocódigo y c.
-
-  **A continuación propongo dos programas simples, primero fueron codificados en pseudocódigo para posteriormente ser adaptados al lenguaje de programación c.**    
-  ## 📘 Ejemplos de algoritmos con estructuras lineales/secuenciales
+- ## 🔹**Ejemplos de algoritmos con estructuras lineales/secuenciales**  
 
 ### 🧪 Aplicación práctica de secuencias simples en pseudocódigo y C
 
