@@ -57,7 +57,8 @@ _Síntesis de aprendizajes, logros alcanzados y retos identificados durante el p
 ---
 
 ## 📚 Referencias  
-_Buscando referencias_
+_Las referencias que me ayudaron a lo largo de este portafolio, se encuentran aquí_
+[1] Arteaga Martínez M. M. (2023). Lógica de programación con Pseint. Enfoque práctico (Primera edición). Fondo Editorial Remington. Disponible en: https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f 
 
 ---
 
