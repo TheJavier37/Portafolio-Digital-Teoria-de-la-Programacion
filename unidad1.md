@@ -84,7 +84,9 @@ Es la forma más básica y didáctica para representar un algoritmo simple.
 ### 🔁 **Diagramas de Flujo**  
 Complementan al pseudocódigo al ofrecer una visualización gráfica del algoritmo.  
 🧩 Permiten entender la lógica del código de manera más intuitiva.
-<img width="1881" height="1012" alt="image" src="https://github.com/user-attachments/assets/0cdfee3c-2118-43a0-b716-9dba2f2dca59" />
+<p align="center">
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/6be136ae-b09b-4eaf-91f3-3c4474686b3c" />
+
 
 
 ---
