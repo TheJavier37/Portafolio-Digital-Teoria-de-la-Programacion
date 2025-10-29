@@ -26,7 +26,12 @@
   ---
   
 ### 🧠 ¿Qué es un algoritmo?
-Un **algoritmo** es una secuencia de pasos lógicos ordenados que tiene un inicio y un final, y que permite dar solución a un problema determinado.
+Un **algoritmo** es una secuencia de pasos lógicos ordenados que tiene un inicio y un final, y que permite dar solución a un problema determinado [1].
+Los algoritmos estan compuestos por las siguientes partes:
+- 🚪Datos de entrada: Toda información que se debe ingresar al algoritmo para que pueda realizar los procesos.
+- ⌚Proceso: Operaciones o cálculos matemáticos que se deben desarrollar para darle solución al problema planteado.
+- 📤Datos de salida: Los resultados de los diferentes procesos llevados a cabo por el algoritmo.
+
 
 ### 📂 Clasificación de algoritmos
 Los algoritmos se pueden clasificar en dos grandes grupos:
@@ -66,9 +71,11 @@ Se refiere a algoritmos que se relacionan con procesos y fórmulas matemáticas.
   4\. Mostrar el resultado del volumen (V)  
   Fin  
 
+---
+
 🛠️ **Herramientas para Representar Algoritmos**
 
-Para representar algoritmos podemos utilizar dos herramientas fundamentales:
+Para representar algoritmos podemos utilizar dos herramientas fundamentales: El Pseudocódigo y los Diagramas de FLujo
 
 ---
 
