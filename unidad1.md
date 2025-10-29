@@ -6,20 +6,20 @@
 ---
 
 ### 📘 Contenidos de la Unidad  
-[Algoritmos, pseudocódigo y diagramas de flujo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-pseudoc%C3%B3digo-y-diagramas-de-flujo)  
-      [Que es un algoritmo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-qu%C3%A9-es-un-algoritmo)  
-      [Algoritmos Cualitativos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-cualitativos)  
-      [Algoritmos Cuantitativos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-cuantitativos)  
-      [Pseudocódigo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-pseudoc%C3%B3digo)  
-      [Diagramas de flujo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-diagramas-de-flujo)  
-      [PSeInt](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-herramienta-utilizada-pseint)  
-[Programación por bloques](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-programaci%C3%B3n-por-bloques)  
-[Ejemplos de algoritmos con estructuras lineales/secuenciales](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#ejemplos-de-algoritmos-con-estructuras-linealessecuenciales)  
-      [Programa 1: Cálculo de porcentajes por género](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-programa-1-c%C3%A1lculo-de-porcentajes-por-g%C3%A9nero)  
-      [Programa 2: Presupuesto para pintura](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-programa-2-presupuesto-para-pintura)  
-[Principales dificultades en la aplicación de los contenidos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)  
-[Reflexión crítica de los aprendizajes de la unidad](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-reflexi%C3%B3n-cr%C3%ADtica-de-los-aprendizajes-de-la-unidad)  
-[Tareas entregadas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-tareas-entregadas)
+- [Algoritmos, pseudocódigo y diagramas de flujo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-pseudoc%C3%B3digo-y-diagramas-de-flujo)  
+      - [Que es un algoritmo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-qu%C3%A9-es-un-algoritmo)  
+      - [Algoritmos Cualitativos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-cualitativos)  
+      - [Algoritmos Cuantitativos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-cuantitativos)  
+      - [Pseudocódigo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-pseudoc%C3%B3digo)  
+      - [Diagramas de flujo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-diagramas-de-flujo)  
+      - [PSeInt](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-herramienta-utilizada-pseint)  
+- [Programación por bloques](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-programaci%C3%B3n-por-bloques)  
+- [Ejemplos de algoritmos con estructuras lineales/secuenciales](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#ejemplos-de-algoritmos-con-estructuras-linealessecuenciales)  
+      - [Programa 1: Cálculo de porcentajes por género](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-programa-1-c%C3%A1lculo-de-porcentajes-por-g%C3%A9nero)  
+      - [Programa 2: Presupuesto para pintura](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-programa-2-presupuesto-para-pintura)  
+- [Principales dificultades en la aplicación de los contenidos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)  
+- [Reflexión crítica de los aprendizajes de la unidad](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-reflexi%C3%B3n-cr%C3%ADtica-de-los-aprendizajes-de-la-unidad)  
+- [Tareas entregadas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-tareas-entregadas)
 
 - ## 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
 
