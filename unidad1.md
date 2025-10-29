@@ -1,11 +1,11 @@
 ➡️ [Regresar al Portafolio Principal](index.md)
 
 
-## 📂 Unidad 1 – Contenidos y Tareas  
+# 📂 Unidad 1 – Contenidos y Tareas  
 
 ---
 
-### 📘 Contenidos de la Unidad  
+## 📘 Contenidos de la Unidad  
 - [Algoritmos, pseudocódigo y diagramas de flujo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-pseudoc%C3%B3digo-y-diagramas-de-flujo)  
       - [Que es un algoritmo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-qu%C3%A9-es-un-algoritmo)  
       - [Algoritmos Cualitativos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-cualitativos)  
@@ -116,7 +116,7 @@ Ejecutamos los ejercicios en las siguientes páginas:
 
   ---
 
-- ## 🔹**Ejemplos de algoritmos con estructuras lineales/secuenciales**  
+## 🔹**Ejemplos de algoritmos con estructuras lineales/secuenciales**  
 
 ### 🧪 Aplicación práctica de secuencias simples en pseudocódigo y C
 
