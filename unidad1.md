@@ -43,33 +43,33 @@ Se describen mediante frases e instrucciones.
 Son los que realizamos en nuestra vida diaria de forma inconsciente.
 
 **📌 Ejemplo:**
-  
-- Pasos para preparar leche con cocoa  
+``` 
+  Pasos para preparar leche con cocoa  
   Inicio  
-  0\. Verter la leche en una olla  
-  1\. Encender una hornilla  
-  2\. Colocar la olla y esperar un rato  
-  3\. Retirar la olla y apagar la hornilla  
-  4\. Poner cucharaditas de cocoa en un vaso  
-  5\. Verter la leche caliente en el vaso  
-  6\. Revolver con una cuchara  
+  1. Verter la leche en una olla  
+  2. Encender una hornilla  
+  3. Colocar la olla y esperar un rato  
+  4. Retirar la olla y apagar la hornilla  
+  5. Poner cucharaditas de cocoa en un vaso  
+  6. Verter la leche caliente en el vaso  
+  7. Revolver con una cuchara  
   Fin  
-  
+```
 ### 🔢 **Algoritmos Cuantitativos**  
 Se refiere a algoritmos que se relacionan con procesos y fórmulas matemáticas.  
 📈 Son más avanzados y por lo general se desarrollan mediante razonamiento lógico.
 
 🧠 **Ejemplo:** 
-
-  
+```
   - Calcular el volumen de una caja 
   Inicio  
-  0\. Solicitar al usuario el valor de la longitud (L)  
-  1\. Solicitar al usuario el valor de la anchura (A)  
-  2\. Solicitar al usuario el valor de la altura (H)  
-  3\. Calcular el volumen usando la fórmula: V = L × A × H  
-  4\. Mostrar el resultado del volumen (V)  
+  1. Solicitar al usuario el valor de la longitud (L)  
+  2. Solicitar al usuario el valor de la anchura (A)  
+  3. Solicitar al usuario el valor de la altura (H)  
+  4. Calcular el volumen usando la fórmula: V = L × A × H  
+  5. Mostrar el resultado del volumen (V)  
   Fin  
+```
 
 ---
 
@@ -206,7 +206,6 @@ Este programa permite calcular el porcentaje de mujeres y de hombres ingresando 
     return 0;
   }
 
-
 ---
 
 ### 🎨 Programa 2: Presupuesto para pintura
@@ -257,7 +256,7 @@ FinAlgoritmo
 
       }
 
-  ---
+---
   
 ## 🔹 **Principales dificultades en la aplicación de los contenidos**
 
