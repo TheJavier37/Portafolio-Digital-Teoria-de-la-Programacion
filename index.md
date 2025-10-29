@@ -16,7 +16,7 @@ _Un recorrido por los fundamentos y aplicaciones de la programación como discip
 
 ---
 
-## 💻 Portafolio Digital de Aprendizaje  
+# 💻 Portafolio Digital de Aprendizaje  
 _Espacio organizado para documentar avances, reflexiones y productos de cada unidad._  
 
 ---
