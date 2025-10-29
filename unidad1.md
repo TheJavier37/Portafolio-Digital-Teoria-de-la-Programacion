@@ -84,7 +84,8 @@ Es una herramienta que permite representar instrucciones de código (pasos del a
 🔤 Se considera un lenguaje de bajo nivel que facilita nuestros primeros pasos en programación.  
 🚀 Su uso permite una transición más suave hacia lenguajes de alto nivel.
 <p align="center">
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9f1a6e2a-4c4a-4c48-88fd-9ecdaee3ed4e" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f201f2f4-aa0c-42e7-aeac-fe8354613a53" />
+
 
 ---
 
@@ -94,13 +95,23 @@ Complementan al pseudocódigo al ofrecer una visualización gráfica del algorit
 <p align="center">
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/6be136ae-b09b-4eaf-91f3-3c4474686b3c" />
 
-
-
 ---
 
 ### 🧪 **Herramienta Utilizada: PSeInt**  
 Utilicé **PSeInt**, una herramienta que proporciona ambas representaciones: pseudocódigo y diagramas de flujo.  
 🧭 Su interfaz guía de forma sencilla el proceso de codificación y ejecución.  
+<p align="center">
+<img width="552" height="300" alt="image" src="https://github.com/user-attachments/assets/6952de63-8d8c-4363-94b5-7c54fedf71f4" />
+<p align="center">
+<img width="538" height="313" alt="image" src="https://github.com/user-attachments/assets/baed4ce0-6083-421b-9978-0d5f40942780" />
+
+---
+### 📋✏️**Pruebas de escritorio**
+| BASE | ALTURA |  | SALIDA |
+|-----------|-----------|-----------|
+| 4   | 8   | 16   |
+| 6   | 2   | 6    |
+
 
   ---
 
