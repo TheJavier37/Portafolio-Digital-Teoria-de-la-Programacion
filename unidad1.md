@@ -7,9 +7,14 @@
 
 ### 📘 Contenidos de la Unidad  
 
-[Que es un algoritmo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-qu%C3%A9-es-un-algoritmo)
-[Algoritmos Cualitativos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-cualitativos)
-[Algoritmos Cuantitativos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-cuantitativos)
+## [Que es un algoritmo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-qu%C3%A9-es-un-algoritmo)  
+[Algoritmos Cualitativos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-cualitativos)  
+[Algoritmos Cuantitativos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-algoritmos-cuantitativos)  
+[Pseudocódigo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-pseudoc%C3%B3digo)  
+[Diagramas de flujo](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-diagramas-de-flujo)  
+[PSeInt](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-herramienta-utilizada-pseint)  
+## [Programación por bloques](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-programaci%C3%B3n-por-bloques)  
+
 
 
 - ## 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
