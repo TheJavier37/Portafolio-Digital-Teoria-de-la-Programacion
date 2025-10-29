@@ -80,7 +80,7 @@ Para representar algoritmos podemos utilizar dos herramientas fundamentales: El 
 ---
 
 ### 📄 **Pseudocódigo**  
-Es la forma más básica y didáctica para representar un algoritmo simple.  
+Es una herramienta que permite representar instrucciones de código (pasos del algoritmo) sin usar un lenguaje de programación formal, es un punto intermedio entre el lenguaje coloquial y el lenguaje de programación. Utiliza las mismas estructuras que implementan los lenguajes de programación de alto nivel [1].  
 🔤 Se considera un lenguaje de bajo nivel que facilita nuestros primeros pasos en programación.  
 🚀 Su uso permite una transición más suave hacia lenguajes de alto nivel.
 <p align="center">
