@@ -45,6 +45,13 @@ _Síntesis de aprendizajes, logros alcanzados y retos identificados durante el p
 
 ### 📚 Referencias  
 _Fuentes académicas, bibliográficas y digitales que respaldan el trabajo realizado._  
+[1] F. Monroy, «¿Qué es PSeInt?,» 20 Octubre 2022. [En
+línea]. Available:
+https://fernandomonroytenorio.com/tema/que-es-pseint.
+[Último acceso: 9 Octubre 2025].  
+[2] «PSeInt: programando en pseudocódigo,» INTEF, 22
+Diciembre 2020. [En línea]. Available: https://intef.es/observatorio_tecno/pseint-programando-
+en-pseudocodigo. [Último acceso: 9 Octubre 2025].
 
 ---
 
