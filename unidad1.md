@@ -130,7 +130,8 @@ Utilicé **PSeInt**, una herramienta que proporciona ambas representaciones: pse
 
 ### 📋✏️**Pruebas de escritorio**
 Son pruebas que podemos realizar a mano, o en otro medio digital, para poder tener un respaldo que nos ayude a comprobar valores, en este caso la tabla de valor que esta abajo, corresponde a las ejecuciones de código anteriores.  
-- Tabla 1: Las pruebas de escritorio que anteriormente se ejecturaron en PSeInt.  
+- Tabla 1: Las pruebas de escritorio que anteriormente se ejecturaron en PSeInt.
+
 | BASE | ALTURA | SALIDA |
 |------|--------|--------|
 | 4    | 8      | 16     |
