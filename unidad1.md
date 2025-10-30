@@ -27,15 +27,15 @@
 | Figura | Descripción                                                                   |
 |--------|-------------------------------------------------------------------------------|
 | [Fig 1](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-1-ejemplo-general-de-pseudoc%C3%B3digo-en-el-cual-se-calcula-el-%C3%A1rea-de-un-tri%C3%A1ngulo)  | Ejemplo general de pseudocódigo en el cual se calcula el área de un triángulo |
-| [Fig 2]()  | Ejemplo de un diagrama de flujo correspondiente al anterior pseudocódigo.     |
-| [Fig 3]  | La primera ejecución del algoritmo en PSeInt.                                 |
-| [Fig 4]  | La segunda ejecución del algoritmo en PSeInt.                                 |
-| [Fig 5]  | Jugando el puzzle de blocky games.                                            |
-| [Fig 6]  | Jugando el laberinto de blocky games.                                         |
-| [Fig 7]  | Jugando el nido de blocky games.                                              |
-| [Fig 8]  | Jugando a preparar la ensalada en pilas bloque.                               |
-| [Fig 9]  | Jugando a pintar con bloques en pilas bloque.                                 |
-| [Fig 10] | Jugando a comer el filete en pilas bloque.                                    |
+| [Fig 2](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-2-ejemplo-de-un-diagrama-de-flujo-correspondiente-al-anterior-pseudoc%C3%B3digo)  | Ejemplo de un diagrama de flujo correspondiente al anterior pseudocódigo.     |
+| [Fig 3](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-3-la-primera-ejecuci%C3%B3n-del-algoritmo-en-pseint)  | La primera ejecución del algoritmo en PSeInt.                                 |
+| [Fig 4](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-4-la-segunda-ejecuci%C3%B3n-del-algoritmo-en-pseint) | La segunda ejecución del algoritmo en PSeInt.                                 |
+| [Fig 5](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-5-jugando-el-puzzle-de-blocky-games)| Jugando el puzzle de blocky games.                                            |
+| [Fig 6](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-6-jugando-el-laberinto-de-blocky-games)  | Jugando el laberinto de blocky games.                                         |
+| [Fig 7](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-7-jugando-el-nido-de-blocky-games)  | Jugando el nido de blocky games.                                              |
+| [Fig 8](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-8-jugando-a-preparar-la-ensalada-en-pilas-bloque)  | Jugando a preparar la ensalada en pilas bloque.                               |
+| [Fig 9](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-9-jugando-a-pintar-con-bloques-en-pilas-bloque)  | Jugando a pintar con bloques en pilas bloque.                                 |
+| [Fig 10](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-10-jugando-a-comer-el-filete-en-pilas-bloque) | Jugando a comer el filete en pilas bloque.                                    |
 
 - ## 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
 
