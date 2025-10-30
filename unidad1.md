@@ -22,6 +22,21 @@
 - [Reflexión crítica de los aprendizajes de la unidad](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-reflexi%C3%B3n-cr%C3%ADtica-de-los-aprendizajes-de-la-unidad)  
 - [Tareas entregadas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#-tareas-entregadas)
 
+## 📑 Tabla de ilustraciones
+
+| Figura | Descripción                                                                   |
+|--------|-------------------------------------------------------------------------------|
+| [Fig 1]  | Ejemplo general de pseudocódigo en el cual se calcula el área de un triángulo |
+| [Fig 2]  | Ejemplo de un diagrama de flujo correspondiente al anterior pseudocódigo.     |
+| [Fig 3]  | La primera ejecución del algoritmo en PSeInt.                                 |
+| [Fig 4]  | La segunda ejecución del algoritmo en PSeInt.                                 |
+| [Fig 5]  | Jugando el puzzle de blocky games.                                            |
+| [Fig 6]  | Jugando el laberinto de blocky games.                                         |
+| [Fig 7]  | Jugando el nido de blocky games.                                              |
+| [Fig 8]  | Jugando a preparar la ensalada en pilas bloque.                               |
+| [Fig 9]  | Jugando a pintar con bloques en pilas bloque.                                 |
+| [Fig 10] | Jugando a comer el filete en pilas bloque.                                    |
+
 - ## 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
 
   ---
@@ -84,7 +99,7 @@ Para representar algoritmos podemos utilizar dos herramientas fundamentales: El 
 Es una herramienta que permite representar instrucciones de código (pasos del algoritmo) sin usar un lenguaje de programación formal, es un punto intermedio entre el lenguaje coloquial y el lenguaje de programación. Utiliza las mismas estructuras que implementan los lenguajes de programación de alto nivel [1].  
 🔤 Se considera un lenguaje de bajo nivel que facilita nuestros primeros pasos en programación.  
 🚀 Su uso permite una transición más suave hacia lenguajes de alto nivel.
-- Fig 1: Ejemplo general de pseudocódigo en el cual se calcula el área de un triángulo.   
+#### - Fig 1: Ejemplo general de pseudocódigo en el cual se calcula el área de un triángulo.   
 <p align="center">
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f201f2f4-aa0c-42e7-aeac-fe8354613a53" />
 
@@ -103,10 +118,11 @@ Complementan al pseudocódigo al ofrecer una visualización gráfica del algorit
 ### 🧪 **Herramienta Utilizada: PSeInt**  
 Utilicé **PSeInt**, una herramienta que proporciona ambas representaciones: pseudocódigo y diagramas de flujo.  
 🧭 Su interfaz guía de forma sencilla el proceso de codificación y ejecución.  
-- Fig 3: La primera ejecución del algoritmo en PSeInt.  
+#### - Fig 3: La primera ejecución del algoritmo en PSeInt.  
 <p align="center">
-<img width="552" height="300" alt="image" src="https://github.com/user-attachments/assets/6952de63-8d8c-4363-94b5-7c54fedf71f4" />
-- Fig 4: La segunda ejecución del algoritmo en PSeInt.  
+<img width="552" height="300" alt="image" src="https://github.com/user-attachments/assets/6952de63-8d8c-4363-94b5-7c54fedf71f4" />  
+	
+#### - Fig 4: La segunda ejecución del algoritmo en PSeInt.  
 <p align="center">
 <img width="538" height="313" alt="image" src="https://github.com/user-attachments/assets/baed4ce0-6083-421b-9978-0d5f40942780" />
 
@@ -137,13 +153,15 @@ Ejecutamos los ejercicios en las siguientes páginas:
 
 - 🎮 [Blockly Games](https://blockly.games/?lang=en)  
   En Blocky Games tuvimos la posibilidad de unir un puzzle interactivo sobre unos animales, luego ayudamos a un muñequito a salir de laberintos, a su destino guiandolo por medio de comandos, luego ayudamos a un pato a comer un gusano y luego llegar a su nido, con ayuda de comandos de inclinacion y avance.
-- Fig 5: Jugando el puzzle de blocky games.  
+#### - Fig 5: Jugando el puzzle de blocky games.  
   <p align="center">
   <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/22e0a045-ec1e-4152-896e-1833bfee0809" />
-- Fig 6: Jugando el laberinto de blocky games.  
+	  
+#### - Fig 6: Jugando el laberinto de blocky games.  
   <p align="center">      
   <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/e2c7ba56-104a-4d81-82c7-35d14af560f2" />
-- Fig 7: Jugando el nido de blocky games.  
+	  
+#### - Fig 7: Jugando el nido de blocky games.  
   <p align="center">    
   <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/2292445b-d547-4d36-842a-ff8acabbefe0" />
 
@@ -151,13 +169,15 @@ Ejecutamos los ejercicios en las siguientes páginas:
 
 - 🧠 [Pilas Bloques](https://pilasbloques.program.ar/online/#)
   En Pilas bloque tuvimos la posibilidad de que por medio de unir comandos de avanzar hacia las cuatros dirección y obtener alimentos, ayudar a los animales a comer su cena, que a veces constaba de obtener varios ingredientes. Adicionlmente habia un modo para poder dibujar con comandos, hice una simple letra J, de mi nombre.
-- Fig 8: Jugando a preparar la ensalada en pilas bloque.  
+#### - Fig 8: Jugando a preparar la ensalada en pilas bloque.  
   <p align="center">
   <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/3dc07f2d-134b-4570-9ec8-039d72401c8b" />
-- Fig 9: Jugando a pintar con bloques en pilas bloque.   
+	  
+#### - Fig 9: Jugando a pintar con bloques en pilas bloque.   
   <p align="center">
   <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/2696c405-2333-4c95-9b72-5d4557b577f7" />
-- Fig 10: Jugando a comer el filete en pilas bloque.  
+	  
+#### - Fig 10: Jugando a comer el filete en pilas bloque.  
   <p align="center">
   <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/38d48226-f424-4d3e-989a-088b70ef4e21" />
 
@@ -323,4 +343,6 @@ En el caso del lenguaje C, es posible incorporar librerías como `<math.h>`:
 
 - ✅ [**Primer acercamiento a la construcción de algoritmos secuenciales en pseudocódigo**](https://drive.google.com/file/d/1NT37vXMcmn19QwDL6oiBPAuYsMcLaCsC/view?usp=sharing)
 
-- ✅ [**Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**](https://drive.google.com/file/d/19sNtAG2jGCmqTEGDnyjLNr2wE8nVQBnb/view?usp=sharing)  
+- ✅ [**Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**](https://drive.google.com/file/d/19sNtAG2jGCmqTEGDnyjLNr2wE8nVQBnb/view?usp=sharing)
+
+
