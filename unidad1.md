@@ -188,11 +188,17 @@ Ejecutamos los ejercicios en las siguientes páginas:
 
 ## 🔹**Ejemplos de algoritmos con estructuras lineales/secuenciales**  
 
+👉 Explicación rápida del lenguaje c.
+C es un lenguaje de alto nivel, que necesita ser compilado, en este caso he usado compiladores como MinGW, mejorando este con ayuda de MYSYS2. Los comandos para poder compilar y ejecutar un archivo.c:  
+
+- `gcc programa.c -o programa` → compila el archivo `programa.c` y genera un ejecutable llamado `programa`.  
+- `./programa` → ejecuta el programa recién compilado.  
+
 ### 🧪 Aplicación práctica de secuencias simples en pseudocódigo y C
 
 A continuación propongo dos programas simples.  
 Primero fueron codificados en pseudocódigo para posteriormente ser adaptados al lenguaje de programación C.
-**Recomiendo abrir los hipervínculos en otra pestaña, para mayor facilidad de navegación**  
+  
 
 ---
 
