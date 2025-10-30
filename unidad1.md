@@ -26,8 +26,8 @@
 
 | Figura | Descripción                                                                   |
 |--------|-------------------------------------------------------------------------------|
-| [Fig 1]  | Ejemplo general de pseudocódigo en el cual se calcula el área de un triángulo |
-| [Fig 2]  | Ejemplo de un diagrama de flujo correspondiente al anterior pseudocódigo.     |
+| [Fig 1](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-1-ejemplo-general-de-pseudoc%C3%B3digo-en-el-cual-se-calcula-el-%C3%A1rea-de-un-tri%C3%A1ngulo)  | Ejemplo general de pseudocódigo en el cual se calcula el área de un triángulo |
+| [Fig 2]()  | Ejemplo de un diagrama de flujo correspondiente al anterior pseudocódigo.     |
 | [Fig 3]  | La primera ejecución del algoritmo en PSeInt.                                 |
 | [Fig 4]  | La segunda ejecución del algoritmo en PSeInt.                                 |
 | [Fig 5]  | Jugando el puzzle de blocky games.                                            |
@@ -109,7 +109,7 @@ Es una herramienta que permite representar instrucciones de código (pasos del a
 ### 🔁 **Diagramas de Flujo**  
 Complementan al pseudocódigo al ofrecer una visualización gráfica del algoritmo.  
 🧩 Permiten entender la lógica del código de manera más intuitiva.
-- Fig 2: Ejemplo de un diagrama de flujo correspondiente al anterior pseudocódigo.  
+#### - Fig 2: Ejemplo de un diagrama de flujo correspondiente al anterior pseudocódigo.  
 <p align="center">
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/6be136ae-b09b-4eaf-91f3-3c4474686b3c" />
 
