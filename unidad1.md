@@ -91,7 +91,16 @@ Se refiere a algoritmos que se relacionan con procesos y fórmulas matemáticas.
 
 🛠️ **Herramientas para Representar Algoritmos**
 
-Para representar algoritmos podemos utilizar dos herramientas fundamentales: El Pseudocódigo y los Diagramas de FLujo
+Para representar algoritmos podemos utilizar dos herramientas fundamentales: El Pseudocódigo y los Diagramas de FLujo, adicionalmente tenemos las pruebas de escritorio que nos ayudan a comprobar lo que codificamos.
+
+---
+### 📋✏️**Pruebas de escritorio**
+Son pruebas que podemos realizar a mano, o en otro medio digital, para poder tener un respaldo que nos ayude a comprobar valores, corresponde a las ejecuciones de código que vienen a continuacion:
+
+| BASE | ALTURA | SALIDA |
+|------|--------|--------|
+| 4    | 8      | 16     |
+| 6    | 2      | 6      |
 
 ---
 
@@ -102,7 +111,6 @@ Es una herramienta que permite representar instrucciones de código (pasos del a
 #### - Fig 1: Ejemplo general de pseudocódigo en el cual se calcula el área de un triángulo.   
 <p align="center">
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f201f2f4-aa0c-42e7-aeac-fe8354613a53" />
-
 
 ---
 
@@ -128,17 +136,6 @@ Utilicé **PSeInt**, una herramienta que proporciona ambas representaciones: pse
 
 ---
 
-### 📋✏️**Pruebas de escritorio**
-Son pruebas que podemos realizar a mano, o en otro medio digital, para poder tener un respaldo que nos ayude a comprobar valores, en este caso la tabla de valor que esta abajo, corresponde a las ejecuciones de código anteriores.  
-- Tabla 1: Las pruebas de escritorio que anteriormente se ejecturaron en PSeInt.
-
-| BASE | ALTURA | SALIDA |
-|------|--------|--------|
-| 4    | 8      | 16     |
-| 6    | 2      | 6      |
-
-
-  ---
 
 ## 🔹 **Programación por bloques**
 
